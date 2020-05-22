@@ -55,7 +55,7 @@ data:
   cwagentconfig.json: |
     {
       "agent": {
-        "region": "<AWS_REGION>"
+        "region": "us-west-2"
       },
       "logs": {
         "metrics_collected": {
